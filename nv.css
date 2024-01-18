@@ -1,0 +1,49 @@
+
+body {
+  display: flex;
+  flex-direction: column;
+background-color: bisque;
+  
+}
+#photo1 {
+  display: flex;
+  height: 400px;
+  position: absolute;
+  bottom: 300px;
+  left: 30%;
+  gap: 80px;
+}
+
+.gabrielle {
+    position: absolute;
+    bottom:60% ;
+    left: 800px;
+  display: flex;
+  text-align: center;
+  margin-bottom: -100px;
+}
+
+
+.prix {
+  display: flex;
+
+  bottom: -0.2em;
+}
+.image {
+  height: 24px;
+  width: 24px;
+}
+.button {
+  background-color: aquamarine;
+}
+.texte{ border: 1px solid ck;
+
+  }
+  
+  .floral {
+    position: absolute;
+    bottom: 40%;
+    left: 800px;
+    font-size: 1em;
+  }
+ 
